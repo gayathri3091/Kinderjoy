@@ -1,8 +1,8 @@
 # Project Title:
     Kinder Sales And Revenue Analysis.
 ## Description/Goal:
-    Kinderjoy project is to analyse and visualize the sales trend over week/holiday and quantity-wise.The goal of this project is to improve sales 
-    and overall performance with help of insights from dashboard.
+    Kinderjoy project is to analyse and visualize the sales trend over week/holiday and quantity-wise.
+    The goal of this project is to improve sales and overall performance with help of insights from dashboard.
 ## Tools Used:
    *Power Query for Data cleaning.
    *Power bi for dashboard,Visualization.
