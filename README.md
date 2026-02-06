@@ -13,4 +13,5 @@
     * Bar and Column charts are used to visualize sales and transaction by weekly/Qty volume.
     * Slicer used to visualize week/holiday related sales.
 ## Dashboard Image:
+    https://github.com/gayathri3091/Kinderjoy/blob/main/Kinderjoy%20%20Dashboard.PNG
    
